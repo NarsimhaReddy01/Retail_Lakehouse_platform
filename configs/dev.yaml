@@ -1,0 +1,8 @@
+catalog: retail_dev
+schema: bronze
+
+paths:
+  raw: /Volumes/retail/raw
+  bronze: /Volumes/retail/bronze
+  silver: /Volumes/retail/silver
+  gold: /Volumes/retail/gold
